@@ -1,0 +1,45 @@
+[
+   {
+      "bannerCategoryId":2,
+      "fileUrl":"http://192.168.1.193/stream/MP00PM.mkv",
+      "id":1,
+      "imgUrl":"http://192.168.1.193/stream/mi.jpg",
+      "movieName":"Monster Inc"
+   },
+   {
+      "bannerCategoryId":2,
+      "fileUrl":"http://192.168.1.193/stream/Osos.mkv",
+      "id":2,
+      "imgUrl":"http://192.168.1.193/stream/tierraOsos.jpg",
+      "movieName":"Tierra de Osos"
+   },
+   {
+      "bannerCategoryId":2,
+      "fileUrl":"http://192.168.1.193/stream/Osos2.mkv",
+      "id":3,
+      "imgUrl":"http://192.168.1.193/stream/tierraOsos2.jpg",
+      "movieName":"Tierra de Osos 2"
+   },
+   {
+      "bannerCategoryId":2,
+      "fileUrl":"http://192.168.1.193/stream/ESCANDALOSOS.mkv",
+      "id":4,
+      "imgUrl":"http://192.168.1.193/stream/escandalosos.jpg",
+      "movieName":"Escandalosos"
+   },
+   {
+      "bannerCategoryId":2,
+      "fileUrl":"http://192.168.1.193/stream/OP-3L-6R1NCH-GHD-2018.mp4",
+      "id":5,
+      "imgUrl":"http://192.168.1.193/stream/ElGrinch.jpg",
+      "movieName":"El Grinch"
+   },
+   {
+      "bannerCategoryId":2,
+      "fileUrl":"http://192.168.1.193/stream/OP-3L-6R1NCH-GHD-2018.mp4",
+      "id":6,
+      "imgUrl":"http://192.168.1.193/stream/drHouse.jpg",
+      "movieName":"Dr House"
+   }
+]
+
