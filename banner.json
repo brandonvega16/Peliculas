@@ -3,21 +3,21 @@
       "bannerCategoryId":2,
       "fileUrl":"http://192.168.1.193/stream/MP00PM.mkv",
       "id":1,
-      "imgUrl":"http://192.168.1.193/stream/mi.jpg",
+      "imgUrl":"https://images-na.ssl-images-amazon.com/images/I/7164VaqI2JL._AC_SL1500_.jpg",
       "movieName":"Monster Inc"
    },
    {
       "bannerCategoryId":2,
       "fileUrl":"http://192.168.1.193/stream/Osos.mkv",
       "id":2,
-      "imgUrl":"http://192.168.1.193/stream/tierraOsos.jpg",
+      "imgUrl":"https://images-na.ssl-images-amazon.com/images/I/7164VaqI2JL._AC_SL1500_.jpg",
       "movieName":"Tierra de Osos"
    },
    {
       "bannerCategoryId":2,
       "fileUrl":"http://192.168.1.193/stream/Osos2.mkv",
       "id":3,
-      "imgUrl":"http://192.168.1.193/stream/tierraOsos2.jpg",
+      "imgUrl":"https://images-na.ssl-images-amazon.com/images/I/7164VaqI2JL._AC_SL1500_.jpg",
       "movieName":"Tierra de Osos 2"
    },
    {
